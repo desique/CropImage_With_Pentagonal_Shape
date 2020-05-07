@@ -1,2 +1,2 @@
-# CropImage_With_Pentagonal_Shape
-This is image crop JS with 8 point edge pantgonal shape
+# CropImage_With_Polygonal_Shape
+Image cropper utility that crops an image in any polygonal shape chosen 
